@@ -1,0 +1,3 @@
+blue:danh,xanh,xanh;
+red:danh tu,do,mau do;
+chicken:danh tu,ga,con ga;
